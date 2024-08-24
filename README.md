@@ -6,3 +6,5 @@
 
 2)QUIZZICAL MINDS (quiz website)-----> https://kuyasha-quizzicalminds.netlify.app
 
+3)EMOJI GUESSING GAME---------> https://kuyasha-emoji-guessing-game.netlify.app
+
