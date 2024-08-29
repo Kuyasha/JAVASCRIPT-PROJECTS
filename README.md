@@ -10,3 +10,5 @@
 
 4)QR-CODE GENERATOR ----------> https://qr-code-generator-kuyasha.netlify.app
 
+5)IMAGE SLIDER-----------> https://kuyasha--image-slider.netlify.app
+
